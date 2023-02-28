@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Noelia</h1>
 <h3 align="center">A Software Developer student at 42 Málaga</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My journey in 42:</h3>
 <p align="left">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/noelgarc?1337Badge=off&UM6P=off" alt="noelgarc's 42 stats" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
