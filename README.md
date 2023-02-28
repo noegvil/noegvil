@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 # Hi 👋, I'm Noelia
-🎯 I'm a Software Developer student at [42 Málaga](https://www.42network.org/)
-🎓 I studied Economics
-🏙  I have a master's in marketing and graphic design
-✏️ I worked with graphic and ux design
+* 🎯 I'm a Software Developer student at [42 Málaga](https://www.42network.org/)
+* 🎓 I studied Economics
+* 🏙  I have a master's in marketing and graphic design
+
 
 <h3 align="left">My journey in 42:</h3>
 <p align="left">
