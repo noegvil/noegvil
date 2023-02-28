@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **noegvil/noegvil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Noelia</h1>
-<h3 align="center">A Software Developer student at 42 Málaga</h3>
+# Hi 👋, I'm Noelia
+### A Software Developer student at [42](https://www.42network.org/)
 
 <h3 align="left">My journey in 42:</h3>
 <p align="left">
