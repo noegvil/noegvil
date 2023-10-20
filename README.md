@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi 👋, I'm Noelia
-* 🎯 I'm a Software Developer student at [42 Málaga](https://www.42network.org/)
+* 🎯 I'm a Software Development student at [42 Málaga](https://www.42network.org/)
 * 🎓 I studied Economics
 
 <h3 align="left">My journey in 42:</h3>
